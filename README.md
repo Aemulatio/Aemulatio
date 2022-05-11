@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Stepan or just @Aemulatio
-- 👀 I’m interested in CrossFit (LOL)
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Stepan <!-- or just @Aemulatio -->
+<!-- - 👀 I’m interested in CrossFit (LOL) -->
+<!-- - 🌱 I’m currently learning JavaScript -->
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
